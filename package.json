@@ -1,0 +1,13 @@
+{
+  "name": "insomna-plugin-system-variable",
+  "version": "1.0.0",
+  "main": "plugin.js",
+  
+  "insomnia": {                    
+    "name": "System Environment Variable",
+    "description": "Allows use of system environment variable in Insomnia."
+  },
+
+  "dependencies": [],
+  "devDependencies": []
+}
